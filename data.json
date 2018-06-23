@@ -1,0 +1,24 @@
+{
+  "basics":{
+    "name":"Nikhita",
+    "email":"nikhitanannepaga08@gmail.com",
+    "mobile":"+918790930037"
+},
+"education":[
+{
+"degree":"B-Tech",
+"institute":"PSCMR",
+"data":["2015-19","72%"]
+},
+{
+  "degree":"Intermediate",
+  "institute":"Sri Chaitanya Junior COllege",
+  "data":["2013-15","83%"]
+},
+{
+"degree":"S.S.C",
+"institute":"Navodaya Public School",
+"data":["2011-12","92%"]
+}
+]
+}
