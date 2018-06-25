@@ -1,3 +1,13 @@
+table{
+  width:90%;
+  box-shadow:4px 4px 4px #ddd;
+}
+td{
+padding:1%;
+}
+tr:nth-child(even){
+  background:#ddd;
+}
 a{
   text-decoration:none;
 }.main{

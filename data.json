@@ -1,24 +1,55 @@
 {
   "basics":{
-    "name":"Nikhita",
-    "email":"nikhitanannepaga08@gmail.com",
-    "mobile":"+918790930037"
-},
-"education":[
-{
-"degree":"B-Tech",
-"institute":"PSCMR",
-"data":["2015-19","72%"]
-},
-{
-  "degree":"Intermediate",
-  "institute":"Sri Chaitanya Junior COllege",
-  "data":["2013-15","83%"]
-},
-{
-"degree":"S.S.C",
-"institute":"Navodaya Public School",
-"data":["2011-12","92%"]
-}
-]
-}
+    "name":"Nikhita Nannepaga",
+     "email":"nikhitanannepaga08@gmail.com",
+      "mobile":"8790930037"
+    },
+    "careerobjective":{
+      "info":"To pursue a challenging career and be a part"
+    },
+    "education":[
+      {
+        "degree":"B.tech",
+        "institute":"pottisriramulu chalavadi mallikarjunarao college of engineering and technology",
+        "data":["2015-19","72%"]
+      },
+      {
+        "degree":"intermediate",
+        "institute":"sri chaitanya junior college",
+        "data":["2013-15","83%"]
+      },
+      {
+        "degree":"S.S.C",
+        "institute":"navodaya school",
+        "data":["2012-13","92%"]
+      }
+    ],
+    "achievements":[
+        {
+          "nameofachivement":"Awarded as <b>1<sup>st</sup>prize</b> in <q>essay writing</q>"
+            },
+        {
+          "nameofachivement":"Awarded as <strong>1<sup>st</sup>prize</strong> in <q>quiz competition</q>"
+        }
+    ],
+    "technicalskills":[
+      {
+
+       "name":"programming languages",
+       "data":["C","Java","Pyhton","Php","C++","javascript"]
+     },
+
+      {
+        "name":"databases",
+        "data":["oracle","mysql"]
+      },
+      {
+        "name":"web technologies",
+        "data":["HTML","CSS","javascript"]
+      },
+      {
+        "name":"libraries",
+        "data":["jQuery","codeignitor"]
+      }
+    ]
+    }
